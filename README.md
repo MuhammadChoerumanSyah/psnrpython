@@ -1,3 +1,5 @@
 # psnrpython
 
-![img1](/img/outputpsnr.png.png)
+## Output
+
+![img1](/img/outputpsnr.png)
